@@ -1,0 +1,14 @@
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\bin\Debug\net8.0\compositeOrnek1.exe
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\bin\Debug\net8.0\compositeOrnek1.deps.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\bin\Debug\net8.0\compositeOrnek1.runtimeconfig.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\bin\Debug\net8.0\compositeOrnek1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\bin\Debug\net8.0\compositeOrnek1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\compositeOrnek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\compositeOrnek1.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\compositeOrnek1.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\compositeOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\compositeOrnek1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\refint\compositeOrnek1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\compositeOrnek1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\compositeOrnek1.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\compositeOrnek1\compositeOrnek1\obj\Debug\net8.0\ref\compositeOrnek1.dll
